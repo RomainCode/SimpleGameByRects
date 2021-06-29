@@ -1,7 +1,7 @@
-# This is a sample Python script.
-
-# Press Maj+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+__author__ = "Romain CORTALE"
+__copyright__ = "Copyright (C) 2021 Romain CORTALE"
+__license__ = "MIT Open Source"
+__version__ = "1.0"
 import os
 import sys
 
